@@ -2,9 +2,31 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
-## Development Server
+Make sure you have these installed 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+node.js
+
+git
+
+Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
+
+git clone 
+
+CD to the folder
+
+cd Mapbox-GL-JS-Angular
+
+Run the following to install the project dependencies:
+
+npm install
+
+Run the ng serve command to build the code, watch for file changes, and serve up the site locally:
+
+ng serve
+
+Navigate to http://localhost:4200. The app will automatically reload if you change any of the source files.
+
+http://localhost:4200/
 
 ## Further help
 

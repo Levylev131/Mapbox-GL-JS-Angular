@@ -34,10 +34,15 @@ Run the ng serve command to build the code, watch for file changes, and serve up
 
 ng serve
 
+## Step 6:
+
 Navigate to http://localhost:4200. The app will automatically reload if you change any of the source files.
 
 http://localhost:4200/
 
+## Step 7: 
+
+Change code in the files and save them to see instant results on your Web Browser.
 
 ## Further help
 

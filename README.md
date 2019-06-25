@@ -2,13 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
-Make sure you have these installed 
+Make sure you have these installed:
 
 node.js
 
 git
 
-Clone this repository into your local machine using the terminal (mac) or Gitbash (PC)
+Clone this repository into your local machine using the terminal:
 
 git clone 
 
